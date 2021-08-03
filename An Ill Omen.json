@@ -151,11 +151,13 @@
     "reminders": [
       "used"
     ],
-    "remindersGlobal": [],
+    "remindersGlobal": [
+      "has ability"
+    ],
     "setup": false,
     "name": "Nurse",
     "team": "townsfolk",
-    "ability": "Once per game, at night, choose a player (not yourself) and a good character with an action (anything that involves choosing a player or character): That player can perform that character's action once."
+    "ability": "Once per game, at night, choose a character that acts once per game (not yourself): that character, if in play, regains their ability, even if dead. You regain this ability the first time you are poisoned & it works even if you are poisoned."
   },
   {
     "id": "glutton",
