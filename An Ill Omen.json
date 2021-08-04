@@ -192,7 +192,7 @@
     "setup": false,
     "name": "Hero",
     "team": "outsider",
-    "ability": "You cannot be killed by the Demon. If you are executed, a different player becomes the Hero. If you die by means other than execution, 2 more players die. 2 players also die if you are poisoned, but not if you are drunk."
+    "ability": "You cannot be killed by the Demon. If you are executed, a different player becomes the Hero. If you die by means other than execution, 2 more players die. 2 players also die if you die while poisoned."
   },
   {
     "id": "lover",
