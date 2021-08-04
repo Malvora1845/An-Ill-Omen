@@ -218,7 +218,7 @@
     "setup": false,
     "name": "Skeptic",
     "team": "outsider",
-    "ability": "You do not know you are the Skeptic. You think you are a different Outsider & will register as that Outsider, but your ability malfunctions. On the first day, after dusk, you and both of your neighbors become sick."
+    "ability": "You do not know you are the Skeptic. You think you are a different Outsider, but your ability malfunctions. On the first day, after dusk, you and both of your neighbors become sick."
   },
   {
     "id": "mourner",
