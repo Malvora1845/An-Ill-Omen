@@ -195,12 +195,12 @@
     "otherNightReminder": "",
     "reminders": [],
     "remindersGlobal": [
-      "veiled"
+      "Decoy"
     ],
     "setup": false,
     "name": "Lover",
     "team": "outsider",
-    "ability": "The Demon might register as good or as a Townsfolk or Outsider, even if either of you is dead. You might register as evil or as a Demon, even if you are dead. You start knowing 1 Demon bluff."
+    "ability": "The Demon might register as good or as a Townsfolk or Outsider, even if either of you is dead. A specific player might register as evil or as a Demon, even if you are dead. You start knowing 1 Demon bluff."
   },
   {
     "id": "skeptic",
