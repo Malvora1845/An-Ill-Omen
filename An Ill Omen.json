@@ -273,7 +273,7 @@
     "setup": false,
     "name": "Renegade Fairy",
     "team": "minion",
-    "ability": "Once per game, at night, choose a player (not yourself) & a good character: That player gets full use of that character's ability for 1 day & 1 night & it will work so it benefits you. You might register as the Fairy Godmother to good players."
+    "ability": "Once per game, at night, choose a player (not yourself) & a good character: That player gets full use of that character's ability for 1 day & 1 night & it will work so it benefits you. You might register as the Fairy Godmother."
   },
   {
     "id": "centurion",
