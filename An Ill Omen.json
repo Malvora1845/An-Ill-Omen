@@ -31,10 +31,10 @@
     "firstNightReminder": "Show the Hostage the character token of the Demon in play.",
     "otherNight": 0,
     "otherNightReminder": "",
-    "reminders": [
+    "reminders": [],
+    "remindersGlobal": [
       "guessed"
     ],
-    "remindersGlobal": [],
     "setup": false,
     "name": "Hostage",
     "team": "townsfolk",
@@ -120,12 +120,11 @@
     "otherNight": 34,
     "otherNightReminder": "If the Fairy Godmother has not used their ability yet, ask the Fairy Godmother if they want to use their ability. If they do, the Fairy Godmother will point at a player and a good character: Mark that player as 'blessed' and that character with 'full use of'. Wake that player and tell them they were selected by the Fairy Godmother. Show them the character token of the ability they may now use.",
     "reminders": [
-      "used"
-    ],
-    "remindersGlobal": [
+      "used",
       "blessed",
       "full use of"
     ],
+    "remindersGlobal": [],
     "setup": false,
     "name": "Fairy Godmother",
     "team": "townsfolk",
@@ -139,11 +138,10 @@
     "firstNightReminder": "",
     "otherNight": 0,
     "otherNightReminder": "",
-    "reminders": [
-      "sick"
-    ],
+    "reminders": [],
     "remindersGlobal": [
       "immune to poison"
+      "sick"
     ],
     "setup": false,
     "name": "Paladin",
@@ -176,10 +174,10 @@
     "firstNightReminder": "",
     "otherNight": 0,
     "otherNightReminder": "",
-    "reminders": [],
-    "remindersGlobal": [
+    "reminders": [
       "is Hero"
     ],
+    "remindersGlobal": [],
     "setup": false,
     "name": "Hero",
     "team": "outsider",
@@ -245,11 +243,11 @@
     "firstNightReminder": "The Druid points at up to 2 players: If they point at 1, mark that player as 'poisoned'. If they point at 2, mark one as 'poisoned', and the other as 'poisoned, knows'. Wake that second player and tell them they have been selected by the Druid.",
     "otherNight": 1,
     "otherNightReminder": "The Druid points at up to 2 players: If they point at 1, mark that player as 'poisoned'. If they point at 2, mark one as 'poisoned', and the other as 'poisoned, knows'. Wake that second player and tell them they have been selected by the Druid.",
-    "reminders": [],
-    "remindersGlobal": [
+    "reminders": [
       "poisoned",
       "poisoned, knows"
     ],
+    "remindersGlobal": [],
     "setup": false,
     "name": "Druid",
     "team": "minion",
@@ -264,12 +262,11 @@
     "otherNight": 32,
     "otherNightReminder": "If the Renegade Fairy has not used their ability yer, ask the Renegade Fairy if they want to use their ability. If they do, the Renegade Fairy will point at a player and a good character: Mark that player as ''blessed'' and that character with 'full bad use of'. Wake that player and tell them they were selected by the Fairy Godmother if they're good, or by the Renegade Fairy if they're evil. Show them the character token of the faulty ability they may now use.",
     "reminders": [
-      "used"
-    ],
-    "remindersGlobal": [
+      "used",
       "'blessed'",
       "full bad use of"
     ],
+    "remindersGlobal": [],
     "setup": false,
     "name": "Renegade Fairy",
     "team": "minion",
@@ -283,10 +280,10 @@
     "firstNightReminder": "The Centurion points at 2 players, 1 of which is good: Mark those players as 'faulty'.",
     "otherNight": 33,
     "otherNightReminder": "The Centurion points at 2 players, 1 of which is good: Mark those players as 'faulty'.",
-    "reminders": [],
-    "remindersGlobal": [
+    "reminders": [
       "faulty"
     ],
+    "remindersGlobal": [],
     "setup": false,
     "name": "Centurion",
     "team": "minion",
@@ -300,10 +297,10 @@
     "firstNightReminder": "",
     "otherNight": 0,
     "otherNightReminder": "",
-    "reminders": [],
-    "remindersGlobal": [
+    "reminders": [
       "poisoned"
     ],
+    "remindersGlobal": [],
     "setup": false,
     "name": "Advisor",
     "team": "minion",
@@ -320,10 +317,10 @@
     "firstNightReminder": "",
     "otherNight": 12,
     "otherNightReminder": "Doesn't wake. Mark a living neighbor to the plague or to a living sick player as 'sick'.",
-    "reminders": [],
-    "remindersGlobal": [
+    "reminders": [
       "sick"
     ],
+    "remindersGlobal": [],
     "setup": false,
     "name": "Plague",
     "team": "demon",
@@ -338,12 +335,11 @@
     "otherNight": 2,
     "otherNightReminder": "The Shadow points at a character with a night action: If that character is in play, place the 'kills' marker next to them. Later that night, place the 'dies' marker(s) next to the player(s) said player picks.",
     "reminders": [
-      "switched once"
-    ],
-    "remindersGlobal": [
+      "switched once",
       "kills",
       "dies"
     ],
+    "remindersGlobal": [],
     "setup": false,
     "name": "Shadow",
     "team": "demon",
@@ -357,10 +353,10 @@
     "firstNightReminder": "",
     "otherNight": 11,
     "otherNightReminder": "The Priam points at a player: That player dies. If the Priam is drunk, show them the hand sign for '2' and the Priam points at 2 players: Both die.",
-    "reminders": [],
-    "remindersGlobal": [
+    "reminders": [
       "dies"
     ],
+    "remindersGlobal": [],
     "setup": true,
     "name": "Priam",
     "team": "demon",
