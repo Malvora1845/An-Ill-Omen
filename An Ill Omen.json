@@ -38,7 +38,7 @@
     "setup": false,
     "name": "Hostage",
     "team": "townsfolk",
-    "ability": "You start knowing which Demon is in play. If an evil player publicly guesses you (once), 2 good players die."
+    "ability": "You start knowing which Demon is in play. If an alive evil player publicly guesses you (once), 2 good players die."
   },
   {
     "id": "doctor",
