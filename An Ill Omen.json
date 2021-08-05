@@ -140,7 +140,7 @@
     "otherNightReminder": "",
     "reminders": [],
     "remindersGlobal": [
-      "immune to poison"
+      "immune to poison",
       "sick"
     ],
     "setup": false,
