@@ -213,7 +213,7 @@
       "sick",
       "is Skeptic"
     ],
-    "setup": false,
+    "setup": true,
     "name": "Skeptic",
     "team": "outsider",
     "ability": "You do not know you are the Skeptic. You think you are a different Outsider, but your ability malfunctions. On the first day, after dusk, you and both of your neighbors become sick."
