@@ -333,7 +333,7 @@
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 2,
-    "otherNightReminder": "The Shadow points at a character with a night action: If that character is in play, place the 'kills' marker next to them. Later that night, place the 'dies' marker(s) next to the player(s) said player picks.",
+    "otherNightReminder": "The Shadow points at a character that acts at night: If that character is in play, place the 'kills' marker next to them. Later that night, place the 'dies' marker(s) next to the player(s) said player picks.",
     "reminders": [
       "switched once",
       "kills",
@@ -343,7 +343,7 @@
     "setup": false,
     "name": "Shadow",
     "team": "demon",
-    "ability": "Each night*, choose a good character with a night action: if in play, whomever that player chooses, dies (including you). The first time you die, whichever living player you last chose to kill for you becomes the new evil Shadow."
+    "ability": "Each night*, choose a good character that acts at night: if in play, whomever that player chooses, dies (including you). The first time you die, whichever living player you last chose to kill for you becomes the new evil Shadow."
   },
   {
     "id": "priam",
