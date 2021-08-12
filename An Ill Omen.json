@@ -181,7 +181,7 @@
     "setup": false,
     "name": "Hero",
     "team": "outsider",
-    "ability": "You cannot be killed by the Demon. If you are executed, a different player becomes the Hero. If you die and are also poisoned, 2 more players die."
+    "ability": "If you are die, a different player becomes the Hero. If you die and are also poisoned, 2 more players die."
   },
   {
     "id": "lover",
