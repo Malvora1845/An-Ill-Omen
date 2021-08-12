@@ -181,7 +181,7 @@
     "setup": false,
     "name": "Hero",
     "team": "outsider",
-    "ability": "If you are die, a different player becomes the Hero. If you die and are also poisoned, 2 more players die."
+    "ability": "If you die, a different player becomes the Hero. If you die and are also poisoned, 2 more players die."
   },
   {
     "id": "lover",
