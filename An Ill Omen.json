@@ -316,7 +316,7 @@
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 12,
-    "otherNightReminder": "Doesn't wake. Mark a living neighbor to the plague or to a living sick player as 'sick'. Kill players that are 'sick' and also 'drunk' or 'poisoned'.",
+    "otherNightReminder": "Doesn't wake. Players that are 'sick' and also 'drunk' or 'poisoned' die now. Mark a living neighbor to the plague or to a living sick player as 'sick'.",
     "reminders": [
       "sick"
     ],
@@ -333,7 +333,7 @@
     "firstNight": 18,
     "firstNightReminder": "",
     "otherNight": 13,
-    "otherNightReminder": "The Shadow points at a player: Place the 'kills' marker next to that player's position. Once that player chooses someone, place the 'dies next' marker next to the player said player picks. Kill players marked with 'dies next' and players that are 'sick' and also 'drunk' or 'poisoned'.",
+    "otherNightReminder": "Players marked with 'dies next' and players that are 'sick' and also 'drunk' or 'poisoned' die now. The Shadow points at a player: Place the 'kills' marker next to that player's position. Once that player chooses someone, place the 'dies next' marker next to the player said player picks.",
     "reminders": [
       "switched once",
       "kills",
@@ -352,7 +352,7 @@
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 11,
-    "otherNightReminder": "The Priam points at a player: That player dies. If the Priam is drunk, show them the hand sign for '2' and the Priam points at 2 players: Both die. Kill players that are 'sick' and also 'drunk' or 'poisoned'.",
+    "otherNightReminder": "Players that are 'sick' and also 'drunk' or 'poisoned' die now. The Priam points at a player: That player dies. If the Priam is drunk, show them the hand sign for '2' and the Priam points at 2 players: Both die.",
     "reminders": [
       "dies"
     ],
