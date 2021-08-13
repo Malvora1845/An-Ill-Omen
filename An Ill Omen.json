@@ -115,7 +115,7 @@
     "id": "fairygodmother",
     "image": "https://raw.githubusercontent.com/Malvora1845/An-Ill-Omen/master/fairy%20godmother.png",
     "edition": "custom",
-    "firstNight": 20,
+    "firstNight": 21,
     "firstNightReminder": "Ask the Fairy Godmother if they want to use their ability. If they do, the Fairy Godmother will point at a player and a good character: Mark that player as 'blessed' and that character with 'full use of'. Wake that player and tell them they were selected by the Fairy Godmother. Show them the character token of the ability they may now use.",
     "otherNight": 34,
     "otherNightReminder": "If the Fairy Godmother has not used their ability yet, ask the Fairy Godmother if they want to use their ability. If they do, the Fairy Godmother will point at a player and a good character: Mark that player as 'blessed' and that character with 'full use of'. Wake that player and tell them they were selected by the Fairy Godmother. Show them the character token of the ability they may now use.",
@@ -257,7 +257,7 @@
     "id": "renegadefairy",
     "image": "https://raw.githubusercontent.com/Malvora1845/An-Ill-Omen/master/renegade%20fairy.png",
     "edition": "custom",
-    "firstNight": 18,
+    "firstNight": 19,
     "firstNightReminder": "Ask the Renegade Fairy if they want to use their ability. If they do, the Renegade Fairy will point at a player and a good character: Mark that player as ''blessed'' and that character with 'full bad use of'. Wake that player and tell them they were selected by the Fairy Godmother if they're good, or by the Renegade Fairy if they're evil. Show them the character token of the faulty ability they may now use.",
     "otherNight": 32,
     "otherNightReminder": "If the Renegade Fairy has not used their ability yer, ask the Renegade Fairy if they want to use their ability. If they do, the Renegade Fairy will point at a player and a good character: Mark that player as ''blessed'' and that character with 'full bad use of'. Wake that player and tell them they were selected by the Fairy Godmother if they're good, or by the Renegade Fairy if they're evil. Show them the character token of the faulty ability they may now use.",
@@ -276,7 +276,7 @@
     "id": "centurion",
     "image": "https://raw.githubusercontent.com/Malvora1845/An-Ill-Omen/master/centurion.png",
     "edition": "custom",
-    "firstNight": 19,
+    "firstNight": 20,
     "firstNightReminder": "The Centurion points at 2 players, 1 of which is good: Mark those players as 'faulty'.",
     "otherNight": 33,
     "otherNightReminder": "The Centurion points at 2 players, 1 of which is good: Mark those players as 'faulty'.",
@@ -330,20 +330,20 @@
     "id": "shadow",
     "image": "https://raw.githubusercontent.com/Malvora1845/An-Ill-Omen/master/shadow.png",
     "edition": "custom",
-    "firstNight": 0,
+    "firstNight": 18,
     "firstNightReminder": "",
-    "otherNight": 2,
-    "otherNightReminder": "The Shadow points at a character that acts at night: If that character is in play, place the 'kills' marker next to them. Later that night, place the 'dies' marker(s) next to the player(s) said player picks. Kill players that are 'sick' and also 'drunk' or 'poisoned'.",
+    "otherNight": 13,
+    "otherNightReminder": "The Shadow points at a player: Place the 'kills' marker next to that player's position. Once that player chooses someone, place the 'dies next' marker next to the player said player picks. Kill players marked with 'dies next' and players that are 'sick' and also 'drunk' or 'poisoned'.",
     "reminders": [
       "switched once",
       "kills",
-      "dies"
+      "dies next"
     ],
     "remindersGlobal": [],
     "setup": false,
     "name": "Shadow",
     "team": "demon",
-    "ability": "Each night*, choose a good character that acts at night: if in play, whomever that player chooses, dies (including you). The first time you die, whichever living player you last chose to kill for you becomes the new evil Shadow."
+    "ability": "Each night, choose a player: whichever player they first choose (through ability or nomination) dies the next night. The first time you die, whichever living player you last chose to kill for you becomes the new evil Shadow."
   },
   {
     "id": "priam",
